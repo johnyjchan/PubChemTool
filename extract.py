@@ -6,7 +6,7 @@ import os
 import gzip
 import shutil
 '''
-This tool is to download and extract the entire PubChem Database.
+This tool is to download and extract the PubChem Database.
 Identifing invalid .gz file, delete it and download the new one.
 Check if all files are consecutive. If not download the missing one.
 '''
