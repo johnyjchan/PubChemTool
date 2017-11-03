@@ -1,8 +1,8 @@
 # PubChemTool
 
-Prerequisit:
-python 2.7
-wget tool
+#Prerequisit:
+#python 2.7
+#wget tool
 
 Run 
 python extract.py
