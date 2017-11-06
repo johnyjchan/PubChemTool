@@ -1,6 +1,6 @@
 # Prerequisit:
  python2.7
- |wget
+ | wget
 
 # Run 
 python extract.py
