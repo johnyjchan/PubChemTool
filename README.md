@@ -4,3 +4,6 @@
 
 # Run 
 python extract.py
+
+# hint:
+This program create a downlord list to access data, you can check the status by: tail -f nohup.out or lsof -c wget. 
