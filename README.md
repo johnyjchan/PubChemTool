@@ -7,4 +7,5 @@ wget
 ```python extract.py```
 
 # Hint:
-This program create a downlord list to access data, you can check the program status by: ```tail -f nohup.out``` or ```lsof -c wget```. 
+This program create a downlord list to access data, you can check the program status <br>
+by command: ```tail -f nohup.out``` or ```lsof -c wget```. 
