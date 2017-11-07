@@ -33,7 +33,7 @@ def checkIfDecompressed(filePath):
 def ftpPubChem(filePath):
     global maximumDisconnectedAllowed
     try:
-        command='nohup wget -m -np ftp://ftp.ncbi.nlm.nih.gov/pubchem/Compound/CURRENT-Full/XML/'+filePath+'.gz &'
+        command='wget -m -np ftp://ftp.ncbi.nlm.nih.gov/pubchem/Compound/CURRENT-Full/XML/'+filePath+'.gz'
         os.system(command)
         print filePath+'.gz: downloaded'
     except:
