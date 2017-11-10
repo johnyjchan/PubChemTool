@@ -3,7 +3,7 @@ python2.7
 <br>
 wget
 
-# Run 
+# Run：
 ```nohup python extract.py &```(python extract.py is obviously ok but it will be interrupted)
 
 # Hint:
